@@ -25,7 +25,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor's Of Computer Science Graduate</li>
+        <li>Bachelor&apos;s Of Computer Science Graduate</li>
         <li>From SPPU University with 8.63GPA</li>
         <li>HSC(XII) in Science with 83.67%</li>
       </ul>
