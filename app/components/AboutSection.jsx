@@ -76,7 +76,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Hello! I’m Soyab, I have a strong foundation in programming,
+            Hello! Im Soyab, I have a strong foundation in programming,
             with proficiency in C Programming, Java, and Python. I have hands-on experience in web development,
             particularly with the MERN stack.
             This expertise allows me to build full-stack web applications that are both robust and scalable.
