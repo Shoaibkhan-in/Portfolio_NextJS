@@ -39,6 +39,7 @@ const Navbar = () => {
               className="flex items-center px-3 py-2 border rounded border-slate-200 text-slate-200 hover:text-white hover:border-white"
             >
               {/* <Bars3Icon className="h-5 w-5" /> */}
+              <img src="/.images/icons8-menu-30.png" alt="" className="invert-1" />
             </button>
           ) : (
             <button
